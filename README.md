@@ -11,7 +11,6 @@
 </div>
 <div>
     <a ![Garotodeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotodeti&show_icons=true&theme=radical)>
-    <img 
 </div>
 
 ## Tecnologias que uso no meu dia 
