@@ -1,8 +1,11 @@
 ### Olá Eu sou o Matheus Guimarães Lopes Pereira Corrêa Teixeira Manga Cordeiro...✋
-- 🎲Hoje trabalho com Engenheria de Dados
-
+- 🎲 Hoje trabalho com Engenheria de Dados
+- 📚 Estudando Chat GPT e começando uma nova facul...
+- 😀 Ele/Dele
 [![SOCIAL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/garotodeti_/)
-
+<div>
+<a href="https://www.linkedin.com/in/matheusguimaraescordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <div>
     <a ![Garotodeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotodeti&show_icons=true&theme=radical)>
     <img 
