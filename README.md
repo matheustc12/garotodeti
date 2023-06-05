@@ -9,9 +9,9 @@
  <a href="https://www.instagram.com/garotodeti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheusguimaraescordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<div>
-    <a ![Garotodeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotodeti&show_icons=true&theme=radical)>
-</div>
+
+![Garotodeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotodeti&show_icons=true&theme=radical)
+
 
 ## Tecnologias que uso no meu dia 
 
