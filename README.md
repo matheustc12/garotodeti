@@ -13,7 +13,9 @@
     <a ![Garotodeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotodeti&show_icons=true&theme=radical)>
     <img 
 </div>
+
 ## Tecnologias que uso no meu dia 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
