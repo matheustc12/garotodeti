@@ -1,6 +1,6 @@
 ### Olá Eu sou o Matheus Guimarães Lopes Pereira Corrêa Teixeira Manga Cordeiro...✋
 - 🎲 Hoje trabalho com Engenheria de Dados
-- 📚 Estudando Chat GPT e começando uma nova facul...
+- 📚 Estudando Chat GPT...
 - 😀 Ele/Dele
 
 
