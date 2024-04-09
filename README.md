@@ -1,8 +1,7 @@
 ### Olá Eu sou o Matheus Guimarães Lopes Pereira Corrêa Teixeira Manga Cordeiro...✋
 - 🎲 Hoje trabalho com Engenharia de Dados
 - 📚 Estudando Chat GPT...
-- 😀 Ele/Dele
-
+- 😀 Gosto de andar de bicicleta
 
 
 <div>
@@ -10,7 +9,7 @@
 <a href="https://www.linkedin.com/in/matheusguimaraescordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Garotodeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotodeti&show_icons=true&theme=radical)
+![Matheustc12's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustc12&show_icons=true&theme=radical)
 
 
 ## Tecnologias que uso no meu dia a dia
